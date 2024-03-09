@@ -11,12 +11,13 @@ const CONFIG = {
     instagram: "phuocpeony",
     facebook:"phuocpeony",
   },
-  projects: [
-    {
-      name: `morethan-blog`,
-      href: "https://github.com/phuocvj/morethan-log",
-    },
-  ],
+  projects:[],
+  // projects: [
+  //   {
+  //     name: `morethan-blog`,
+  //     href: "https://github.com/phuocvj/morethan-log",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "Morethan-Blog",
