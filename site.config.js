@@ -6,9 +6,10 @@ const CONFIG = {
     role: "frontend & backend developer",
     bio: "I develop everything using Database (Oracle, SQL Server, MySQL, Postgre,...), C#, node, nextjs, reactjs.",
     email: "lebaokhaky@gmail.com",
-    linkedin: "phuocvj",
+    linkedin: "",
     github: "phuocvj",
     instagram: "phuocpeony",
+    facebook:"phuocpeony",
   },
   projects: [
     {
