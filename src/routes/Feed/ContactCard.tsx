@@ -2,6 +2,7 @@ import styled from "@emotion/styled"
 import React from "react"
 import {
   AiFillLinkedin,
+  AiOutlineFacebook,
   AiOutlineGithub,
   AiOutlineInstagram,
   AiOutlineMail,
@@ -32,7 +33,7 @@ const ContactCard: React.FC = () => {
             rel="noreferrer"
             target="_blank"
           >
-            <AiOutlineInstagram className="icon" />
+            <AiOutlineFacebook className="icon" />
             <div className="name">Facebook</div>
           </a>
         )}
