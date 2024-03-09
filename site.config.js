@@ -4,9 +4,9 @@ const CONFIG = {
     name: "Lê Thiện Phước",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend & backend developer",
-    bio: "I develop everything using Database (Oracle, SQL Server, MySQL, Postgre,...), C#, node, nextjs, reactjs.",
+    bio: "I develop everything using Database (Oracle, SQL Server, MySQL, Postgres,...), C#, Nodejs, Nextjs, Reactjs.",
     email: "lebaokhaky@gmail.com",
-    github: "phuocvj",
+    github: "phuocvj", 
     instagram: "phuocpeony",
     facebook: "phuocpeony",
     linkedin: "",
@@ -21,7 +21,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Morethan-Blog",
-    description: "welcome to Morethan-Blog!",
+    description: "Welcome to Morethan-Blog!",
   },
 
   // CONFIG configration (required)
